@@ -112,7 +112,7 @@ reservation.addActionListener(e->
         this.JSP4.setVisible(false);
         this.LEconomic.setBounds(-90, 0, 880, 400);
         this.PFlightTypes.add(this.LEconomic);
-      
+
         this.LEconomic.setVisible(true);
 
         this.c.add(this.PFlightTypes);
